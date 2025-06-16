@@ -1,11 +1,11 @@
-# Housing Trends: Rent, Prices & Affordability (Looker Studio Project)
+# Housing Trends (Looker Studio Project)
 
 This project visualizes global housing trends using **Google Looker Studio**. It explores affordability, rent and price indices, and key economic indicators like inflation and GDP growth. The dashboard includes **interactive filters** for exploring data by country and year.
 
 ## 🔍 Project Overview
 
 The interactive dashboard allows users to:
-- Filter by **country** and **year**
+- Filter by **country**, **year** and **inflation_rate**
 - View the **Top 10 Most Affordable Countries**
 - Compare **House Price Index** and **Rent Index** over time
 - Analyze **Affordability Ratios**
